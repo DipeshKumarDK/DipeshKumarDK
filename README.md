@@ -1,7 +1,6 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 <h1 align="center">Hi 👋, I'm Dipesh Kumar</h1>
 <h3 align="center">A passionate blockchain and MERN developer.</h3>
-<img  align="right"alt="Coding"width="400"src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_640.png">
+<img  align="right"alt="Coding"width="400"src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🌱 I’m currently learning **Blockchain, Ethereum, Web3.js**
 

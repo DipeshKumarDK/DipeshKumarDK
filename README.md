@@ -1,4 +1,4 @@
-<!-- [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.pixabay.com/photo/2020/03/02/04/49/network-4894815_640.jpg))] -->
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 <h1 align="center">Hi 👋, I'm Dipesh Kumar</h1>
 <h3 align="center">A passionate blockchain and MERN developer.</h3>
 <img  align="right"alt="Coding"width="400"src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_640.png">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipesh Kumar</h1>
-<h3 align="center">A passionate blockchain and MERN developer.</h3>
+<h3 align="center">A Passionate Blockchain And MERN Developer.</h3>
 <img  align="right"alt="Coding"width="400"src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🌱 I’m currently learning **Blockchain, Ethereum, Web3.js**
